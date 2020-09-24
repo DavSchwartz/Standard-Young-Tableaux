@@ -1,0 +1,14 @@
+﻿  StandardYoungTableaux.cpp
+C:\Users\Dave\Documents\repos\Standard-Young-Tableaux\StandardYoungTableaux\StandardYoungTableaux.cpp(13,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dave\Documents\repos\Standard-Young-Tableaux\StandardYoungTableaux\StandardYoungTableaux.cpp(14,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dave\Documents\repos\Standard-Young-Tableaux\StandardYoungTableaux\StandardYoungTableaux.cpp(41,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dave\Documents\repos\Standard-Young-Tableaux\StandardYoungTableaux\StandardYoungTableaux.cpp(42,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dave\Documents\repos\Standard-Young-Tableaux\StandardYoungTableaux\StandardYoungTableaux.cpp(89,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dave\Documents\repos\Standard-Young-Tableaux\StandardYoungTableaux\StandardYoungTableaux.cpp(90,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dave\Documents\repos\Standard-Young-Tableaux\StandardYoungTableaux\StandardYoungTableaux.cpp(114,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dave\Documents\repos\Standard-Young-Tableaux\StandardYoungTableaux\StandardYoungTableaux.cpp(115,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dave\Documents\repos\Standard-Young-Tableaux\StandardYoungTableaux\StandardYoungTableaux.cpp(139,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dave\Documents\repos\Standard-Young-Tableaux\StandardYoungTableaux\StandardYoungTableaux.cpp(140,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dave\Documents\repos\Standard-Young-Tableaux\StandardYoungTableaux\StandardYoungTableaux.cpp(175,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dave\Documents\repos\Standard-Young-Tableaux\StandardYoungTableaux\StandardYoungTableaux.cpp(176,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  StandardYoungTableaux.vcxproj -> C:\Users\Dave\Documents\repos\Standard-Young-Tableaux\x64\Debug\StandardYoungTableaux.exe
